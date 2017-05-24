@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "13_NestedLoopWithTurtle", "13_NestedLoopWithTurtle\13_NestedLoopWithTurtle.pyproj", "{6448AD31-E15E-413C-AA06-7EAE3FBFA5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6448AD31-E15E-413C-AA06-7EAE3FBFA5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6448AD31-E15E-413C-AA06-7EAE3FBFA5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
